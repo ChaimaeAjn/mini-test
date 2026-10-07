@@ -1,2 +1,0 @@
-AdditionTest.DeuxNombres 1 0.0603964
----
