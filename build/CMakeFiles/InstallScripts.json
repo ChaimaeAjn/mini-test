@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/ajnai/OneDrive/Documents/mini-test/build/cmake_install.cmake",
+		"C:/Users/ajnai/OneDrive/Documents/mini-test/build/_deps/googletest-build/cmake_install.cmake",
+		"C:/Users/ajnai/OneDrive/Documents/mini-test/build/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"C:/Users/ajnai/OneDrive/Documents/mini-test/build/_deps/googletest-build/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
