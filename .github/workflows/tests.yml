@@ -1,0 +1,30 @@
+name: Tests C++
+
+# Lance la CI lorsqu'on fait un push ou une Pull Request
+on:
+  push:
+  pull_request:
+
+jobs:
+  build-and-test:
+
+    # GitHub fournit une machine Linux pour exécuter nos tests
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # Récupère notre code depuis GitHub
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      # Configure CMake
+      - name: Configurer CMake
+        run: cmake -S . -B build
+
+      # Compile le projet
+      - name: Compiler
+        run: cmake --build build
+
+      # Lance les tests
+      - name: Lancer les tests
+        run: ctest --test-dir build --output-on-failure
