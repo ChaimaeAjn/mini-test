@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+C:/Users/ajnai/OneDrive/Documents/mini-test/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+C:/Users/ajnai/OneDrive/Documents/mini-test/build/_deps/googletest-subbuild/CMakeFiles/2f50e32965ca703f85a83cb400539785/googletest-populate.rule
+C:/Users/ajnai/OneDrive/Documents/mini-test/build/_deps/googletest-subbuild/CMakeFiles/75c52694ead53d9ddf2f325183298869/googletest-populate-complete.rule
+C:/Users/ajnai/OneDrive/Documents/mini-test/build/_deps/googletest-subbuild/CMakeFiles/b328051fbd492a24bbbbad122cdc35cf/googletest-populate-build.rule
+C:/Users/ajnai/OneDrive/Documents/mini-test/build/_deps/googletest-subbuild/CMakeFiles/b328051fbd492a24bbbbad122cdc35cf/googletest-populate-configure.rule
+C:/Users/ajnai/OneDrive/Documents/mini-test/build/_deps/googletest-subbuild/CMakeFiles/b328051fbd492a24bbbbad122cdc35cf/googletest-populate-download.rule
+C:/Users/ajnai/OneDrive/Documents/mini-test/build/_deps/googletest-subbuild/CMakeFiles/b328051fbd492a24bbbbad122cdc35cf/googletest-populate-install.rule
+C:/Users/ajnai/OneDrive/Documents/mini-test/build/_deps/googletest-subbuild/CMakeFiles/b328051fbd492a24bbbbad122cdc35cf/googletest-populate-mkdir.rule
+C:/Users/ajnai/OneDrive/Documents/mini-test/build/_deps/googletest-subbuild/CMakeFiles/b328051fbd492a24bbbbad122cdc35cf/googletest-populate-patch.rule
+C:/Users/ajnai/OneDrive/Documents/mini-test/build/_deps/googletest-subbuild/CMakeFiles/b328051fbd492a24bbbbad122cdc35cf/googletest-populate-test.rule
+C:/Users/ajnai/OneDrive/Documents/mini-test/build/_deps/googletest-subbuild/CMakeFiles/b328051fbd492a24bbbbad122cdc35cf/googletest-populate-update.rule
